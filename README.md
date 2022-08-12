@@ -1,6 +1,7 @@
 # tencentTask
-task3 umg作业，微云链接
+task3 umg作业，umg作业为task3文件夹的项目，上面的task2描述虽然是umg，主要是git push的时候不小心把task2更新了一下，与此次作业无关。其中，一个作业由于疏忽大意，用蓝图进行了创建工程，导致无法上传源码，所以打包到了安卓，将安装包放到了微云内。
 
+微云链接
 
 https://share.weiyun.com/OO8YnfPO
 
