@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\unrealtask\\tencentTask\\task3\\task3\\Source\\Netshoot\\Netshoot.Build.cs",
+		"E:\\unrealtask\\tencentTask\\task3\\task3\\Source\\Netshoot.Target.cs",
+		"E:\\unrealtask\\tencentTask\\task3\\task3\\Source\\NetshootEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

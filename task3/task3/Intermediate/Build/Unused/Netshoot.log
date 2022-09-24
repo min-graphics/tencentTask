@@ -1,0 +1,18 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\unreal\UnrealEngine).
+  Creating makefile for NetshootEditor (no existing makefile)
+  Creating makefile for ShaderCompileWorker (no existing makefile)
+  Building NetshootEditor and ShaderCompileWorker...
+  Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 7 actions with 12 processes...
+    [1/7] Netshoot.cpp
+    [2/7] Netshoot.init.gen.cpp
+    [3/7] CustomCreateSessionCallbackProxy.gen.cpp
+    [4/7] CustomCreateSessionCallbackProxy.cpp
+E:\unrealtask\tencentTask\task3\task3\Source\Netshoot\Private\CustomCreateSessionCallbackProxy.cpp(142): warning C4996: 'APlayerState::UniqueId': This member will be made private. Use GetUniqueId or SetUniqueId instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    [5/7] UE4Editor-Netshoot.lib
+      正在创建库 E:\unrealtask\tencentTask\task3\task3\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\UE4Editor-Netshoot.lib 和对象 E:\unrealtask\tencentTask\task3\task3\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\UE4Editor-Netshoot.exp
+    [6/7] UE4Editor-Netshoot.dll
+      正在创建库 E:\unrealtask\tencentTask\task3\task3\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\UE4Editor-Netshoot.suppressed.lib 和对象 E:\unrealtask\tencentTask\task3\task3\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\UE4Editor-Netshoot.suppressed.exp
+    [7/7] NetshootEditor.target
+  Total time in Parallel executor: 6.17 seconds
+  Total execution time: 11.25 seconds
